@@ -1,4 +1,4 @@
-# linkedin_automation_messager
+# linkedin_automation_messenger
 Automation to send messages in linkedin
 
 
